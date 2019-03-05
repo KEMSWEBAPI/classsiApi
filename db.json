@@ -41,28 +41,28 @@
                     "hasType": "true",
                     "catsubtype": [{
                             "categoryId": 1,
-                            "categoryName": "Childcare",
+                            "categoryName": "Dance",
                             "categoryTot": 10293,
                             "categoryurl": "https://via.placeholder.com/600/92c952",
                             "hasType": "false"
                         },
                         {
                             "categoryId": 1,
-                            "categoryName": "Clothing",
+                            "categoryName": "Cake Making",
                             "categoryTot": 10293,
                             "categoryurl": "https://via.placeholder.com/600/92c952",
                             "hasType": "false"
                         },
                         {
                             "categoryId": 1,
-                            "categoryName": "Food&Drink",
+                            "categoryName": "Dj",
                             "categoryTot": 10293,
                             "categoryurl": "https://via.placeholder.com/600/92c952",
                             "hasType": "false"
                         },
                         {
                             "categoryId": 1,
-                            "categoryName": "Entertainment",
+                            "categoryName": "Garba",
                             "categoryTot": 10293,
                             "categoryurl": "https://via.placeholder.com/600/92c952",
                             "hasType": "true"
