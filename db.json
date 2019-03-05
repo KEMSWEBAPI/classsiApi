@@ -65,36 +65,7 @@
                             "categoryName": "Entertainment",
                             "categoryTot": 10293,
                             "categoryurl": "https://via.placeholder.com/600/92c952",
-                            "hasType": "true",
-                            "subtype": [{
-                                    "categoryId": 1,
-                                    "categoryName": "Dance",
-                                    "categoryTot": 10293,
-                                    "categoryurl": "https://via.placeholder.com/600/92c952",
-                                    "hasType": "false"
-                                },
-                                {
-                                    "categoryId": 1,
-                                    "categoryName": "Club",
-                                    "categoryTot": 10293,
-                                    "categoryurl": "https://via.placeholder.com/600/92c952",
-                                    "hasType": "false"
-                                },
-                                {
-                                    "categoryId": 1,
-                                    "categoryName": "Cake Makers",
-                                    "categoryTot": 10293,
-                                    "categoryurl": "https://via.placeholder.com/600/92c952",
-                                    "hasType": "false"
-                                },
-                                {
-                                    "categoryId": 1,
-                                    "categoryName": "Dj",
-                                    "categoryTot": 10293,
-                                    "categoryurl": "https://via.placeholder.com/600/92c952",
-                                    "hasType": "false"
-                                }
-                            ]
+                            "hasType": "true"
                         }
                     ]
                 }
